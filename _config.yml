@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Data is your frenemy
 tagline:             On Wednesdays we wear pink
-url:                 http://getpoole.com
+url:                 http://ljzhong.github.io/dataisurfrenemy/
 paginate:            1
 baseurl:             "/dataisurfrenemy"
 
